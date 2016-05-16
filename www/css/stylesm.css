@@ -1,0 +1,239 @@
+.km-filter-sm-header-head-1 {
+    word-spacing: 5px;
+    font-size: 12px;
+    text-align: center;    
+}
+
+.km-filter-sm-header-head-2 {
+    text-align: center;
+    font-size: 18px;
+    
+}
+
+.km-filter-sm-header-head-3 {
+    text-align: center;
+    word-spacing: 5px;
+}
+
+.km-filter-sm-header-head-3-btn {
+    border-radius: 50px;
+    font-size: 12px;
+}
+
+.km-sm-container-img-container-text {
+    margin-top: -58%;
+    margin-bottom: 45%;
+    text-align: center;
+    font-size: 12px;
+    font-family: cursive;
+}
+
+.km-sm-container-img-container-text-span1 {
+    font-weight: bold;
+}
+
+.km-filter-sm-container-img-container-text-btn {
+    border-radius: 50px;
+    font-size: 11px;
+}
+
+.km-filter-sm-container-img-1 {
+    margin-left: 45%;
+}
+
+.km-filter-sm-container-row-1-span1 {
+    color: silver;
+}
+
+.km-filter-sm-container-img-2{
+    margin-left: 45%;
+}
+
+.km-filter-sm-container-row-2-span2 {
+    color: silver;
+}
+
+.km-filter-sm-container-text2 {
+    margin: -30% 0 15% 31%;
+}
+
+.km-filter-sm-container-text2-btn {
+    border-radius: 50px;
+    text-align: 11px;
+}
+
+.km-filter-sm-container-2-row-text-3 {
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.km-filter-sm-container-2-container-text-3-span-4 {
+    color: silver;
+}
+
+.km-filter-sm-container-3-container-text-4-beatiful {
+    text-align: center;
+    margin-bottom: 10%;
+}
+
+.km-filter-sm-container-3-container-text-4-beatiful-line {
+    border-bottom: 2px solid blue;
+    margin: 0 48%;
+    text-align: center;
+    margin-top: 3%;
+}
+
+.km-filter-sm-container-3-container-text-4-div-5 {
+    text-align: center;
+}
+
+.km-filter-sm-container-3-container-img-4 {
+    margin-bottom: 15%;
+}
+
+.km-filter-sm-container-3-row-1 {
+    text-align: center;
+}
+
+.km-filter-sm-container-3-row-1-div-6 {
+    color: silver;
+}
+
+.km-filter-sm-container-3-row-1-div-6-span-1 {
+    color: black;
+}
+
+.km-filter-sm-container-3-row-1-rows-2 {
+    color: silver;
+}
+
+.km-filter-sm-container-3-row-1-rows-2-input {
+    border-radius: 50px;
+    border-bottom: 2px solid silver;
+    border-right: 2px solid silver;
+    width: 160px;
+}
+
+.km-filter-sm-container-3-row-1-rows-2-btn {
+    border-radius: 50px;
+    margin-bottom: 5%;
+}
+
+.km-filter-sm-container-3-row-1-button {
+    color: white;
+    background-color: black;
+    border-radius: 50px;
+    margin-bottom: 10%;
+}
+
+.km-filter-sm-container-4-container-text-5-div-10-text-2 {
+    color: silver;
+    margin-bottom: 10%;
+}
+
+.km-filter-sm-container-4-container-text-5-div-10-text-3 {
+    color: #FF8000;
+    margin-bottom: 25%;
+}
+
+.km-filter-sm-container-4-container-text-5-div-10-text-4 {
+    font-size: 9px;
+    margin-bottom: 10%;
+}
+
+.km-filter-sm-container-row {
+    text-align: center;
+}
+
+.km-filter-sm-container-5-container-text-6-div-11 {
+    margin-bottom: 10%;
+}
+
+.km-filter-sm-container-5-container-text-6-div-12-button-2 {
+    border: 2px solid silver;
+    margin: 0 15%;
+    border-radius: 50px;
+}
+
+.km-filter-sm-container-5-container-text-6-div-12-button-3-btn-default {
+    margin-left: -50%;  
+    border-radius: 50px;
+}
+
+.km-filter-sm-container-5-container-text-6-div-12-button-3 {
+    margin-top: -37px;
+    margin-left: 55%;
+    border-radius: 50px;
+    margin-bottom: 10%;
+}
+
+.km-filter-sm-container-5-container-text-6-div-13 {
+    color: silver;
+}
+
+.km-filter-sm-container-5-container-text-6-div-14 {
+    margin-top: 10%;
+}
+
+.km-filter-sm-container-5-container-text-6-div-14-span-14 {
+    color: silver;
+}
+
+.km-filter-sm-container-6 {
+    text-align: center;
+}
+
+.km-filter-sm-container-6-div-15 {
+    color: silver;
+}
+
+.km-filter-sm-container-6-div-15-form {
+    margin-top: 5%;
+    border-radius: 50px;
+    border-bottom-color: silver;
+    border-right-color: silver;
+}
+
+.km-filter-sm-container-6-div-15-btn-success {
+    border-radius: 50px;
+}
+
+.km-filter-sm-container-6-div-15-row-3 {
+    margin-top: 10%;
+    margin-bottom: 20%;
+}
+
+.km-filter-sm-container-7 {
+    text-align: center;
+}
+
+.km-filter-sm-container-7-text-8-div-17 {
+    color: silver;
+}
+
+.km-filter-sm-container-7-text-8-div-18-button {
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+}
+
+.km-filter-sm-container-7-text-8-div-20-a-2 {
+    color: silver;
+}
+
+.km-filter-sm-container-7-text-9-text-10-div-21 {
+    color: silver;
+}
+
+.km-filter-sm-buttom {
+    text-align: center;
+}
+
+.km-filter-sm-buttom-div-24 {
+    color: silver;
+    margin-bottom: 15%;    
+}
+
+.km-filter-sm-buttom-div-25 {
+    font-size: 10px;
+}
